@@ -6,7 +6,7 @@ It uses Machine Learning models (e.g., Logistic Regression, Decision Tree, Rando
 
 # 📂 Dataset
 
-## Dataset used: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
+## Dataset used: [[UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
  (or mention Kaggle link if you used it).
 
 ### Features include:
